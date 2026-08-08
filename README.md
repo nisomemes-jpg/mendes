@@ -32,6 +32,8 @@ Importante: não tire o `index.html` de dentro da pasta. Ele precisa ficar junto
 - `index.html`: página principal da paróquia.
 - `padre-joao-maria.html`: página sobre o Servo de Deus Padre João Maria.
 - `oracoes-padre-bianor.html`: orações usadas nas celebrações e transmissões.
+- `comunicacoes.html`: inscrições abertas e avisos da comunidade.
+- `paroquia-em-missao.html`: fotos e programação das Missas nas Ruas.
 - `styles.css`: aparência do site.
 - `script.js`: funcionamento do menu e dos links.
 - `assets/`: imagens usadas no site.

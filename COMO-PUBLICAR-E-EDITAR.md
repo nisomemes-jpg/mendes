@@ -15,6 +15,7 @@ Arquivos importantes:
 - `padre-joao-maria.html`
 - `oracoes-padre-bianor.html`
 - `comunicacoes.html`
+- `paroquia-em-missao.html`
 - `styles.css`
 - `script.js`
 - `config.js`
@@ -34,6 +35,9 @@ Dentro da pasta `assets`, confira se existem estes arquivos:
 - `inscricao-coroinhas.jpeg`
 - `inscricao-leitores.jpeg`
 - `pastoral-promocao-humana.jpeg`
+- `catequistas-salinha.jpeg`
+- `missao-primeira-01.jpeg` até `missao-primeira-05.jpeg`
+- `missao-segunda-missa.jpeg`
 
 ## 2. Como publicar no GitHub Pages
 
@@ -69,7 +73,11 @@ Para mudar textos:
 3. Página do Padre João Maria: `padre-joao-maria.html`.
 4. Página das orações: `oracoes-padre-bianor.html`.
 5. Página das comunicações: `comunicacoes.html`.
-6. Salve e envie para o GitHub.
+6. Página Paróquia em Missão: `paroquia-em-missao.html`.
+7. Salve e envie para o GitHub.
+
+Os novos avisos e celebrações estão marcados no código com o comentário `CONTEÚDO EDITÁVEL`,
+para serem encontrados rapidamente em uma atualização futura.
 
 Para atualizar as comunicações semanais:
 
