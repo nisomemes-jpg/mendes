@@ -38,6 +38,7 @@ Dentro da pasta `assets`, confira se existem estes arquivos:
 - `catequistas-salinha.jpeg`
 - `missao-primeira-01.jpeg` até `missao-primeira-05.jpeg`
 - `missao-segunda-missa.jpeg`
+- `missao-segunda-01.jpeg` até `missao-segunda-09.jpeg`
 
 ## 2. Como publicar no GitHub Pages
 

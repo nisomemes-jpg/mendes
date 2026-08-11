@@ -919,6 +919,11 @@ blockquote {
   object-position: center;
 }
 
+.mission-gallery .mission-portrait img {
+  object-fit: contain;
+  background: var(--deep-teal);
+}
+
 .mission-gallery figcaption {
   padding: 14px 16px;
   color: var(--muted);
