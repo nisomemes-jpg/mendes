@@ -39,6 +39,8 @@ Dentro da pasta `assets`, confira se existem estes arquivos:
 - `missao-primeira-01.jpeg` até `missao-primeira-05.jpeg`
 - `missao-segunda-missa.jpeg`
 - `missao-segunda-01.jpeg` até `missao-segunda-09.jpeg`
+- `peregrinacao-divino-pai-eterno-2027.jpeg`
+- `peregrinacao-joao-paulo-ii-2027.jpeg`
 
 ## 2. Como publicar no GitHub Pages
 
